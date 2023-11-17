@@ -1,6 +1,6 @@
-# React + TypeScript + Vite
+# React + TypeScript + Vite + SCSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a react dynamic component to create note cards, it is fully dynamic as it takes the title, icons, descriptions as props.
 
 Currently, two official plugins are available:
 
